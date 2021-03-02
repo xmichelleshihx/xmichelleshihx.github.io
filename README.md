@@ -2,11 +2,6 @@
 
 ### Educations
 
-
-
-```markdown
-Syntax highlighted code block
-
 ### Papers
 
 ### Activities
